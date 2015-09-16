@@ -1,0 +1,4 @@
+009-0342a00	T 009-0342a	buddhist/T-taisho/T47/03/T47-0342.png
+009-0342b00	T 009-0342b	buddhist/T-taisho/T47/03/T47-0342.png
+009-0342c00	T 009-0342c	buddhist/T-taisho/T47/03/T47-0342.png
+009-0343a00	T 009-0343a	buddhist/T-taisho/T47/03/T47-0343.png
